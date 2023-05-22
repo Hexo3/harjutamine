@@ -1,0 +1,1 @@
+GitHub pakub veebimajutusteenust tarkvararenduseks, kasutades Giti versioonihaldus tarkvara. GitHubi kasutavad tarkvaraarendajad.
