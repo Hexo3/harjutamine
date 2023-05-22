@@ -1,1 +1,5 @@
 GitHub pakub veebimajutusteenust tarkvararenduseks, kasutades Giti versioonihaldus tarkvara. GitHubi kasutavad tarkvaraarendajad.
+
+GitHubi saan ma edaspidi kasutada tarkvararenduses ja veebiarenduses ning skriptide loomisel nende talletamiseks.
+
+GitHubi ajalugu: GitHub asutati aastal 2007 Tom Preston-Werner'i, Chris Wanstrath'i ja P. J. Hyett'i poolt. GitHub'i avaldati aastal 2008.
